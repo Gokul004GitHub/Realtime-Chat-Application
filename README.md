@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✨ Full Stack Realtime Chat App ✨
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -40,3 +41,7 @@ npm run build
 ```shell
 npm start
 ```
+=======
+# Realtime-Chat-Application
+Scalable real-time chat app built with Node.js and WebSocket technology supporting multiple concurrent users with persistent data storage
+>>>>>>> 2168c45fd1a502fc9e0e93e0202bf321a27179b3
